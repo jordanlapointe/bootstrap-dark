@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-dark",
-  "version": "1.0.0",
+  "name": "bootstrap-4-dark",
+  "version": "1.0.1",
   "description": "Bootstrap 4 CSS with inverted colors",
   "main": "index.css",
   "scripts": {
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/jordanlapointe/bootstrap-dark#readme",
   "dependencies": {
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^4.6.2"
+  },
+  "devDependencies": {
     "node-sass": "^8.0.0"
   }
 }
