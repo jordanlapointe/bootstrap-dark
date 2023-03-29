@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-dark",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 CSS with inverted colors",
+  "main": "index.css",
+  "scripts": {
+    "build": "node-sass ./index.scss -o ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanlapointe/bootstrap-dark.git"
+  },
+  "author": "Jordan LaPointe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jordanlapointe/bootstrap-dark/issues"
+  },
+  "homepage": "https://github.com/jordanlapointe/bootstrap-dark#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "node-sass": "^8.0.0"
+  }
+}
